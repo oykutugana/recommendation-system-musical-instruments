@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+data/cache/
+results/embeddings/*.npy
+results/embeddings/*.pt
+results/embeddings/*.pkl
+.DS_Store
+.env
