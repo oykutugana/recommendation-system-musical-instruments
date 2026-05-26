@@ -4,6 +4,8 @@ Amazon Musical Instruments dataset üzerinde recommendation system tasarımı.
 
 **Dataset:** https://huggingface.co/datasets/oyku-tugana/amazon-musical-instruments-2018-2023-5core
 
+**Project Link:** https://github.com/oykutugana/recommendation-system-musical-instruments
+
 ## Klasör Yapısı
 
 - `colab_notebooks/` — embeddings oluştururken ve proje tasarlanırken kullanıldı. Artık sadece arşivde, çalıştırılmamalı.
