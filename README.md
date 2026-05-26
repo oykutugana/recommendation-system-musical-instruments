@@ -39,7 +39,7 @@ Gereksinimler:
 2. TuganaOyku_Yildiz_24018020.ipynb dosyasını aç
 3. Kernel → Restart → Run All
 4. İlk hücrede HF'den dataset indirilir (~50 MB, internet gerek)
-5. Toplam çalışma süresi: ~40 dakika (laptop CPU)
+5. Toplam çalışma süresi: ~60 dakika (laptop CPU)
 
 Veri kaynağı:
 - HF dataset: oyku-tugana/amazon-musical-instruments-2018-2023-5core
