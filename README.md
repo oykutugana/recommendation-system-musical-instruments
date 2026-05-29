@@ -39,7 +39,6 @@ Gereksinimler:
 2. TuganaOyku_Yildiz_24018020.ipynb dosyasını aç
 3. Kernel → Restart → Run All
 4. İlk hücrede HF'den dataset indirilir (~50 MB, internet gerek)
-5. Toplam çalışma süresi: ~6 dakika (laptop CPU)
 
 Veri kaynağı:
 - HF dataset: oyku-tugana/amazon-musical-instruments-2018-2023-5core
@@ -47,6 +46,6 @@ Veri kaynağı:
 
 Önceden hesaplanmış dosyalar:
 - results/embeddings/ — SBERT ve CLIP embedding'leri
-  (Colab GPU üzerinde üretildi, kod 02b_embeddings_colab.ipynb'de
+  (Colab GPU üzerinde üretildi, kod 03_embeddings_colab.ipynb'de
    referans gösterilmiştir. Bu projede 13,575 ürün için image embedding
    gerektiği için GPU şarttır.)
