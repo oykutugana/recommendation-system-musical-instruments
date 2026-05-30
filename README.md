@@ -41,7 +41,7 @@ Gereksinimler:
 4. İlk hücrede HF'den dataset indirilir (~50 MB, internet gerek)
 
 Veri kaynağı:
-- HF dataset: oyku-tugana/amazon-musical-instruments-2018-2023-5core
+- HF dataset: oyku-tugana/amazon-musical-instruments-2014-2023-5core
 - Notebook otomatik indirir.
 
 Önceden hesaplanmış dosyalar:
