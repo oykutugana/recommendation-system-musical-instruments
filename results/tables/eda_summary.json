@@ -1,0 +1,21 @@
+{
+  "category": "Musical_Instruments",
+  "total_reviews": 3017439,
+  "unique_users": 1762679,
+  "unique_items_in_reviews": 213571,
+  "total_items_metadata": 213593,
+  "date_min": "1999-08-26",
+  "date_max": "2023-09-12",
+  "mean_rating": 4.255534246094122,
+  "verified_pct": 0.9214817598632483,
+  "users_ge_3_reviews": 214135,
+  "users_ge_5_reviews": 84574,
+  "users_ge_10_reviews": 23286,
+  "items_ge_3_reviews": 102066,
+  "items_ge_5_reviews": 71218,
+  "items_ge_10_reviews": 42363,
+  "items_with_image_pct": 0.9995037290547911,
+  "items_with_description_pct": 0.7150702504295553,
+  "items_with_price_pct": 0.39738193667395466,
+  "items_with_bought_together_pct": 0.0
+}

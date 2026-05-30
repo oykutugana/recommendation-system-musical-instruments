@@ -1,20 +1,20 @@
 {
   "sbert": {
     "shape": [
-      13575,
+      23158,
       384
     ],
-    "n_items": 13575,
+    "n_items": 23158,
     "dim": 384
   },
   "clip": {
     "shape": [
-      13568,
+      23142,
       512
     ],
-    "n_items_success": 13568,
-    "n_items_failed": 4,
+    "n_items_success": 23142,
+    "n_items_failed": 11,
     "dim": 512,
-    "coverage_pct": 99.94843462246777
+    "coverage_pct": 99.93090940495725
   }
 }
